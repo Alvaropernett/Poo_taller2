@@ -1,0 +1,8 @@
+class animal {
+#String sonido;
++ void hacerSonido();
+}
+class Perro{
+#String sonido;
+}
+Animal <-- Perro
